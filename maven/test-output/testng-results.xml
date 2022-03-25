@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="224258" started-at="2022-03-25T05:18:13 PDT" finished-at="2022-03-25T05:21:58 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="224258" started-at="2022-03-25T05:18:13 PDT" finished-at="2022-03-25T05:21:58 PDT">
+      <class name="com.ExtentReport.Extentrepot1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ExtentReport.Extentrepot1@1786f9d5]" name="setup" is-config="true" duration-ms="129" started-at="2022-03-25T05:18:13 PDT" finished-at="2022-03-25T05:18:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.ExtentReport.Extentrepot1@1786f9d5]" name="setUpTest" is-config="true" duration-ms="215973" started-at="2022-03-25T05:18:13 PDT" finished-at="2022-03-25T05:21:49 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.ExtentReport.Extentrepot1@1786f9d5]" name="test1" duration-ms="3497" started-at="2022-03-25T05:21:49 PDT" finished-at="2022-03-25T05:21:53 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ExtentReport.Extentrepot1@1786f9d5]" name="tearDown" is-config="true" duration-ms="4738" started-at="2022-03-25T05:21:53 PDT" finished-at="2022-03-25T05:21:58 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownstep()[pri:0, instance:com.ExtentReport.Extentrepot1@1786f9d5]" name="tearDownstep" is-config="true" duration-ms="287" started-at="2022-03-25T05:21:58 PDT" finished-at="2022-03-25T05:21:58 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownstep -->
+      </class> <!-- com.ExtentReport.Extentrepot1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
